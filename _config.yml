@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0
+  brandStrength: 0.3542932
+  lightness: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.8941998
+name: Catalina
