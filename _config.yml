@@ -23,19 +23,19 @@ color:
     - '#8C1D16'
     - '#CFA780'
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Catalina
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Catalina
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.79961
+typography_spectrum: 0.4495167
 layout_spectrum: 0
